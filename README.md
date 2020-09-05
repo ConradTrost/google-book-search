@@ -13,10 +13,6 @@
   #### Search for any book using this search engine featuring Google Books API, React, Apollo, and GraphQL.
 
 
-  <p align="center">
-  <img src="./note_taker.png" width="900" title="Screenshot of Note Taker">
-  </p>
-
   ### Table of Contents:
 
   **[Description](#description)**<br>
